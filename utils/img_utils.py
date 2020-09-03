@@ -23,3 +23,4 @@ def image_loader(image_name):
 
 def save_image_from_tensor(tensor, output_path):
 	pass
+	
